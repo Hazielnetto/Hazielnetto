@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 🔭 Em busca de um emprego, atualmente sou estudante de Ciência da Computação na FURB.<br>- 📚 Estou aprendendo Flutter/Reactive (+DEVS2BLU) e Python.<br>- ⚡ No meu tempo livre, gosto de jogar com meus amigos, ouvir música e estudar sobre praticamente qualquer coisa.</p>
+<p align="left">- 🔭 Em busca de um emprego, atualmente sou estudante de Ciência da Computação na FURB.<br>- ⚡ No meu tempo livre, gosto de jogar com meus amigos, ouvir música e estudar sobre praticamente qualquer coisa.</p>
 
 ###
 
